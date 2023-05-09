@@ -108,7 +108,9 @@ function App() {
       </div>
       <div className=" px-6 lg:px-[100px] lg:flex items-center overflow-hidden lg:pb-[100px]">
         <div>
-          <h1 className=" text-2xl font-bold mb-[20px] lg:text-4xl">How it Works</h1>
+          <h1 className=" text-2xl font-bold mb-[20px] lg:text-4xl">
+            How it Works
+          </h1>
           <p className=" w-[386px] text-base font-normal mb-[32px]">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit amet. Lorem
             ipsum dolor sit amet, consecte adipiscing elit ipsum.
@@ -170,7 +172,9 @@ function App() {
       <div className=" p-4 lg:px-[100px]">
         <div className="  justify-between items-end mb-9">
           <div>
-            <h1 className=" text-2xl font-bold lg:text-4xl">Trending Auctions</h1>
+            <h1 className=" text-2xl font-bold lg:text-4xl">
+              Trending Auctions
+            </h1>
             <p className=" text-base font-normal my-3">
               Lorem ipsum dolor sit amet, consectetur adipisc elit amet.
               Consectetu at it lrorem ipsum dolor sit amet.
